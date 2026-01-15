@@ -1078,7 +1078,7 @@ justify-content: center;
 .mnimg{
     height: 280px;
     width: 280px;
-    background-color: red;
+    /* background-color: red; */
     border-radius: 10px 10px 10px 10px;
 }
 .nchild:hover{
@@ -1541,4 +1541,5 @@ width: auto;
 .m2{
     width: 52%;
 }
+
 }
